@@ -1,0 +1,23 @@
+{
+  "name": "nodeproxy",
+  "version": "1.0.0",
+  "description": "node代理转发服务",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuchengjx/nodeProxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuchengjx/nodeProxy/issues"
+  },
+  "homepage": "https://github.com/fuchengjx/nodeProxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
